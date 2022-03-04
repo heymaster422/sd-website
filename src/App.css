@@ -1,14 +1,14 @@
 .App {
   text-align: center;
-}
 
+}
 
 Nav{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 10vh;
-  background-color: grey;
+  min-height: 4vh;
+  background-color: #2B2D2F;
   color: white; 
 
 }
@@ -20,4 +20,49 @@ Nav{
   align-items: center;
   list-style: none;
 
+}
+
+#team{
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  grid-gap: 0; 
+  width: 50%; 
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  border: 2px solid grey;
+}
+
+.team-child-name{
+  width: 300px;
+  margin-left: 20%;
+  
+}
+.team-child-info{
+  text-align: justify;
+  
+}
+
+#team .team-child-name .role{
+  text-align: center;
+}
+
+
+.teamContact{
+    border-radius: 10px;  
+    background-color: #FFFFFF;
+    color:black; 
+    text-align :center;  
+    font-family:arial, helvetica, sans-serif;  
+    padding: 5px 7px 5px 7px;
+    margin-left: auto;
+    margin-right: auto;  
+    font-weight:bold;  
+    width:150px;  
+    height:30px;  
+}
+
+.Button{
+  text-decoration: none;
+  color:black; 
 }

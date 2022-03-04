@@ -17,8 +17,8 @@ export default function Nav() {
             <Link style={navStyle} to='/Gallery'>
                 <li>Gallery</li>
             </Link>
-            <Link style={navStyle} to= '/Demo'>
-                <li>Demo</li>
+            <Link style={navStyle} to= '/Team'>
+                <li>Team</li>
             </Link>
 
         </ul>
