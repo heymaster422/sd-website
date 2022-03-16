@@ -9,7 +9,8 @@ export default function Nav() {
     };
     return(
         <nav>
-        <h3>Logo</h3>
+        <Link style={navStyle} to= '/'><h3>Logo</h3>
+        </Link>
         <ul className='nav-links'>
             <Link style={navStyle} to= '/Demo'>
                 <li>Demo</li>

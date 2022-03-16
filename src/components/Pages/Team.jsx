@@ -24,7 +24,12 @@ export default function Team() {
                 </div>
                     <div className='team-child-info'>
                         <p className="teamDescription">
-                        I am Oscar Cansino, and I am a Senior at California State University Northridge as a Computer Science Major. My interests in Computer Science include Web Development, Cybersecurity, Artificial Intelligence, Game Development and Data Mining. Outside of class I have a big interest in both board games and trading card games such as Yu-Gi-Oh! and Magic the Gathering. I am also big into building computers, having built my first one from random parts donated to me when I was 11. Some fun facts about me are that I am going to be the first person in my extended family to be a university graduate and I am colorblind.
+                        I am Oscar Cansino, and I am a Senior at California State University Northridge as a Computer Science Major.
+                         My interests in Computer Science include Web Development, Cybersecurity, Artificial Intelligence, Game Development
+                          and Data Mining. Outside of class I have a big interest in both board games and trading card games such as Yu-Gi-Oh!
+                           and Magic the Gathering. I am also big into building computers, having built my first one from random parts donated 
+                           to me when I was 11. Some fun facts about me are that I am going to be the first person in my extended family to be
+                            a university graduate and I am colorblind.
                         </p>
                     </div>
             </div>
@@ -46,7 +51,13 @@ export default function Team() {
                 </div>
                     <div className='team-child-info'>
                         <p className="teamDescription">
-                                I'm Alex.
+                        My name is Alex Kang and i am a senior in Computer Science at CSUN. 
+                        My interests are web development, software development, and game development.
+                         I enjoy understanding and learning how algorithms, data structures, and abstract
+                          math work. I have experience in building/designing websites, game development, 
+                          and building computers. During my free time, I enjoy browsing github for new programs
+                           to try out, playing video games and boardgames, and developing my skills on anything I 
+                           see interesting (i'm currently learning how to play drums).
                         </p>
                     </div>
             </div>
