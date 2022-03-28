@@ -7,8 +7,8 @@
 
 .content-wrap{
   flex: 1;
-
 }
+
 
 Nav{
   display: flex;
@@ -17,7 +17,6 @@ Nav{
   min-height: 4vh;
   background-color: #2B2D2F;
   color: white; 
-
 }
 
 .nav-links{
@@ -37,7 +36,6 @@ Nav{
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  border: 2px solid grey;
 }
 
 .team-child-name{
@@ -96,7 +94,6 @@ Nav{
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  border: 2px solid grey;
 
 }
 
@@ -106,7 +103,34 @@ Nav{
 }
 
 Footer{
-  height: 15vh;
+  height: 18vh;
   background-color: #2B2D2F;
   margin-top: auto;
+  
+}
+
+.main-footer .row:after{
+  display: table;
+  clear: both; 
+  
+}
+
+.main-footer .col{
+  float: left;
+  width: 33%;  
+  text-align: left;
+  
+}
+
+.main-footer .colOne{
+  float: left;
+  width: 33%;  
+  text-align: center;
+  
+}
+
+.footer-links{
+
+  list-style: none;
+  margin: 30px 0;
 }
