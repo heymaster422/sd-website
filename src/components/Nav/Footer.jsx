@@ -16,10 +16,10 @@ export default function Footer() {
                         {/* Col 2  */}
                         <div className='col'>
                             <ul className='footer-links'>
-                                <li>Facebook</li>
-                                <li>Twitter </li>
-                                <li>LinkedIn</li>
-                                <li>Instagram</li>
+                            <a target="_blank" href="https://www.facebook.com/calstatenorthridge"><img src="facebook.png" alt="Facebook" /></a>
+                            <a target="_blank" href="https://twitter.com/csunorthridge"><img src="twitter.png" alt="Twitter" /></a>
+                            <a target="_blank" href="https://www.instagram.com/csun_edu/?hl=en"><img src="instagram.png" alt="Instagram" /></a>
+                            <a target="_blank" href="https://www.linkedin.com/school/california-state-university-northridge/"><img src="linkedin.png" alt="LinkedIn" /></a>
                             </ul>
                         </div> 
                         {/* Col 3  */}

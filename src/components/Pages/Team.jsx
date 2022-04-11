@@ -17,8 +17,8 @@ export default function Team() {
                         <a
                         href="https://github.com/ocansino"
                         target = "_blank"
-                        className="Button">
-                        GitHub
+                        >
+                        <img src="git.png" alt="Git" />
                         </a>
                     </div>
                 </div>
@@ -44,8 +44,8 @@ export default function Team() {
                         <a
                         href="https://github.com/AlexKang99"
                         target = "_blank"
-                        className="Button">
-                        GitHub
+                        >
+                        <img src="git.png" alt="Git" />
                         </a>
                     </div>
                 </div>
@@ -72,8 +72,8 @@ export default function Team() {
                         <a
                         href="https://github.com/michaelbarseghian"
                         target = "_blank"
-                        className="Button">
-                        GitHub
+                        >
+                        <img src="git.png" alt="Git" />
                         </a>
                     </div>
                 </div>
@@ -92,10 +92,10 @@ export default function Team() {
                     <h4 className='role'>Group Leader / Scrum Master / Member of Art Team</h4>
                     <div className="teamContact">
                         <a
-                        href="https://github.com/heymaster422"
+                        href="https://github.com/miherjivalagian"
                         target = "_blank"
-                        className="Button">
-                        GitHub
+                        >
+                        <img src="git.png" alt="Git" />
                         </a>
                     </div>
                 </div>
@@ -115,12 +115,8 @@ export default function Team() {
                     </h3>
                     <h4 className='role'>Art Team Lead / Developer</h4>
                     <div className="teamContact">
-                        <a
-                        href="https://github.com/heymaster422"
-                        target = "_blank"
-                        className="Button">
-                        GitHub
-                        </a>
+                            <a href="https://github.com/heymaster422" target = "_blank"><img src="git.png" alt="Git" /> </a>
+                            <a href="https://www.linkedin.com/in/andrew-wong-590993139/" target = "_blank"><img src="linkedin.png" alt="LinkedIn" /> </a>
                     </div>
                 </div>
                     <div className='team-child-info'>

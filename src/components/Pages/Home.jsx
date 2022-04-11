@@ -4,7 +4,7 @@ export default function Home() {
 
     return(
         <div className='Home'>
-            <h1>Dimension Crawl</h1>
+            <img src="DC logo_nav.png" alt="game logo" width="400" height="200" ></img>
             <div className='gameDesc'>
                 <h4> About </h4>
                 Dimension Crawl is a rogue like game that demonstrates how PCG can be integrated into a video game. Explore 5
@@ -22,6 +22,7 @@ export default function Home() {
                 </p>
                 <h4>Major Features</h4>
                 <ul>
+                    <img src='scrn5.png' width="600" height="400"/>
                     <li>PCG made levels.</li>
                     <li>PCG made stats for weapons.</li>
                     <li>PCG made stats for mobs.</li>
